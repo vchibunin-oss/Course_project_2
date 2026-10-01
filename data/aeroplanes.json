@@ -1,0 +1,1199 @@
+[
+    {
+        "icao24": "4acb23",
+        "callsign": "NSZ6LB",
+        "origin_country": "Sweden",
+        "longitude": -4.0265,
+        "latitude": 37.7971,
+        "altitude": 7658.1,
+        "velocity": 212.0
+    },
+    {
+        "icao24": "440219",
+        "callsign": "EJU62GX",
+        "origin_country": "Austria",
+        "longitude": 2.1854,
+        "latitude": 40.0321,
+        "altitude": 7764.78,
+        "velocity": 203.61
+    },
+    {
+        "icao24": "440237",
+        "callsign": "EJU18TV",
+        "origin_country": "Austria",
+        "longitude": -2.583,
+        "latitude": 39.8163,
+        "altitude": 11582.4,
+        "velocity": 227.81
+    },
+    {
+        "icao24": "4aca95",
+        "callsign": "NSZ2JM",
+        "origin_country": "Sweden",
+        "longitude": -4.5915,
+        "latitude": 36.7502,
+        "altitude": 1127.76,
+        "velocity": 119.93
+    },
+    {
+        "icao24": "51119a",
+        "callsign": "MBU5AW",
+        "origin_country": "Estonia",
+        "longitude": 2.7686,
+        "latitude": 39.4393,
+        "altitude": 1501.14,
+        "velocity": 129.3
+    },
+    {
+        "icao24": "4aca0d",
+        "callsign": "NSZ5362",
+        "origin_country": "Sweden",
+        "longitude": -0.0937,
+        "latitude": 38.7461,
+        "altitude": 4846.32,
+        "velocity": 190.11
+    },
+    {
+        "icao24": "3c4a09",
+        "callsign": "DLH501",
+        "origin_country": "Germany",
+        "longitude": -6.7655,
+        "latitude": 43.9729,
+        "altitude": 11582.4,
+        "velocity": 285.25
+    },
+    {
+        "icao24": "440083",
+        "callsign": "EJU14NT",
+        "origin_country": "Austria",
+        "longitude": 2.4686,
+        "latitude": 39.5518,
+        "altitude": 11582.4,
+        "velocity": 215.35
+    },
+    {
+        "icao24": "44001f",
+        "callsign": "EJU9043",
+        "origin_country": "Austria",
+        "longitude": 1.0565,
+        "latitude": 40.4629,
+        "altitude": 11582.4,
+        "velocity": 227.66
+    },
+    {
+        "icao24": "ab271f",
+        "callsign": "AAL742",
+        "origin_country": "United States",
+        "longitude": -2.7531,
+        "latitude": 42.2256,
+        "altitude": 12496.8,
+        "velocity": 256.51
+    },
+    {
+        "icao24": "344344",
+        "callsign": "IBE03TH",
+        "origin_country": "Spain",
+        "longitude": -9.863,
+        "latitude": 41.2275,
+        "altitude": 11871.96,
+        "velocity": 268.4
+    },
+    {
+        "icao24": "3451da",
+        "callsign": "ANE1084",
+        "origin_country": "Spain",
+        "longitude": -1.0786,
+        "latitude": 39.7755,
+        "altitude": 5074.92,
+        "velocity": 166.67
+    },
+    {
+        "icao24": "c038aa",
+        "callsign": "ACA932",
+        "origin_country": "Canada",
+        "longitude": -4.2638,
+        "latitude": 42.5974,
+        "altitude": 11574.78,
+        "velocity": 262.07
+    },
+    {
+        "icao24": "02013d",
+        "callsign": "RAM251L",
+        "origin_country": "Morocco",
+        "longitude": -10.2089,
+        "latitude": 35.163,
+        "altitude": 11887.2,
+        "velocity": 267.37
+    },
+    {
+        "icao24": "0200ae",
+        "callsign": "RAM223B",
+        "origin_country": "Morocco",
+        "longitude": -6.7772,
+        "latitude": 33.7904,
+        "altitude": 6301.74,
+        "velocity": 192.63
+    },
+    {
+        "icao24": "48af0b",
+        "callsign": "LOT6KB",
+        "origin_country": "Poland",
+        "longitude": -2.8655,
+        "latitude": 41.73,
+        "altitude": 8481.06,
+        "velocity": 224.8
+    },
+    {
+        "icao24": "345107",
+        "callsign": "VLG1292",
+        "origin_country": "Spain",
+        "longitude": -2.7044,
+        "latitude": 42.7607,
+        "altitude": 10058.4,
+        "velocity": 210.51
+    },
+    {
+        "icao24": "44cc44",
+        "callsign": "BEL2FR",
+        "origin_country": "Belgium",
+        "longitude": -3.5068,
+        "latitude": 40.7357,
+        "altitude": 3604.26,
+        "velocity": 165.86
+    },
+    {
+        "icao24": "8964c1",
+        "callsign": "ETD7LG",
+        "origin_country": "United Arab Emirates",
+        "longitude": 3.965,
+        "latitude": 39.8834,
+        "altitude": 11277.6,
+        "velocity": 253.0
+    },
+    {
+        "icao24": "c0799e",
+        "callsign": "TSC680",
+        "origin_country": "Canada",
+        "longitude": -13.342,
+        "latitude": 39.6928,
+        "altitude": 12496.8,
+        "velocity": 269.41
+    },
+    {
+        "icao24": "4ca4ec",
+        "callsign": "RYR1GE",
+        "origin_country": "Ireland",
+        "longitude": -1.6216,
+        "latitude": 38.7289,
+        "altitude": 11277.6,
+        "velocity": 223.72
+    },
+    {
+        "icao24": "4ca565",
+        "callsign": "RYR86EK",
+        "origin_country": "Ireland",
+        "longitude": -4.5629,
+        "latitude": 36.863,
+        "altitude": 2644.14,
+        "velocity": 147.22
+    },
+    {
+        "icao24": "394a0d",
+        "callsign": "AFR415",
+        "origin_country": "France",
+        "longitude": -16.9116,
+        "latitude": 28.9232,
+        "altitude": 10972.8,
+        "velocity": 252.18
+    },
+    {
+        "icao24": "a2a2e6",
+        "callsign": "UAL992",
+        "origin_country": "United States",
+        "longitude": -12.4471,
+        "latitude": 43.0015,
+        "altitude": 11887.2,
+        "velocity": 277.29
+    },
+    {
+        "icao24": "49d2ee",
+        "callsign": "TVS2140",
+        "origin_country": "Czech Republic",
+        "longitude": 3.4659,
+        "latitude": 39.7158,
+        "altitude": 4777.74,
+        "velocity": 163.9
+    },
+    {
+        "icao24": "06432b",
+        "callsign": "APO7578",
+        "origin_country": "Nigeria",
+        "longitude": 1.4265,
+        "latitude": 39.9026,
+        "altitude": 10972.8,
+        "velocity": 240.65
+    },
+    {
+        "icao24": "4ca2c1",
+        "callsign": "RYR36HP",
+        "origin_country": "Ireland",
+        "longitude": -3.1176,
+        "latitude": 40.8435,
+        "altitude": 5029.2,
+        "velocity": 203.71
+    },
+    {
+        "icao24": "4ca2ad",
+        "callsign": "RYR8WQ",
+        "origin_country": "Ireland",
+        "longitude": 4.0456,
+        "latitude": 43.3939,
+        "altitude": 10668.0,
+        "velocity": 236.22
+    },
+    {
+        "icao24": "50808f",
+        "callsign": "CVK7112",
+        "origin_country": "Ukraine",
+        "longitude": -4.7976,
+        "latitude": 39.0321,
+        "altitude": 6080.76,
+        "velocity": 152.86
+    },
+    {
+        "icao24": "4ca244",
+        "callsign": "RYR117J",
+        "origin_country": "Ireland",
+        "longitude": -3.4172,
+        "latitude": 41.2221,
+        "altitude": 10972.8,
+        "velocity": 243.37
+    },
+    {
+        "icao24": "a4972c",
+        "callsign": "UPS242",
+        "origin_country": "United States",
+        "longitude": 2.3378,
+        "latitude": 41.2639,
+        "altitude": 3413.76,
+        "velocity": 130.91
+    },
+    {
+        "icao24": "06a079",
+        "callsign": "QTR1E",
+        "origin_country": "Qatar",
+        "longitude": 2.138,
+        "latitude": 38.6706,
+        "altitude": 10058.4,
+        "velocity": 247.96
+    },
+    {
+        "icao24": "503d71",
+        "callsign": "CFG3XR",
+        "origin_country": "Lithuania",
+        "longitude": 2.8762,
+        "latitude": 39.4776,
+        "altitude": 2125.98,
+        "velocity": 141.81
+    },
+    {
+        "icao24": "34368c",
+        "callsign": "ANE1198",
+        "origin_country": "Spain",
+        "longitude": 0.6183,
+        "latitude": 43.1874,
+        "altitude": 6088.38,
+        "velocity": 197.18
+    },
+    {
+        "icao24": "44046d",
+        "callsign": "EJU15EK",
+        "origin_country": "Austria",
+        "longitude": 3.5756,
+        "latitude": 42.0829,
+        "altitude": 11269.98,
+        "velocity": 231.04
+    },
+    {
+        "icao24": "3ce18f",
+        "callsign": "PTN91A",
+        "origin_country": "Germany",
+        "longitude": -3.2557,
+        "latitude": 41.1145,
+        "altitude": 6560.82,
+        "velocity": 179.29
+    },
+    {
+        "icao24": "c079a6",
+        "callsign": "TSC252",
+        "origin_country": "Canada",
+        "longitude": -11.5561,
+        "latitude": 39.2137,
+        "altitude": 12496.8,
+        "velocity": 266.82
+    },
+    {
+        "icao24": "4404e6",
+        "callsign": "EJU609D",
+        "origin_country": "Austria",
+        "longitude": 4.5443,
+        "latitude": 43.5499,
+        "altitude": 10363.2,
+        "velocity": 221.82
+    },
+    {
+        "icao24": "4952c2",
+        "callsign": "TAP1550",
+        "origin_country": "Portugal",
+        "longitude": -11.2337,
+        "latitude": 36.3066,
+        "altitude": 10972.8,
+        "velocity": 255.15
+    },
+    {
+        "icao24": "4952c7",
+        "callsign": "TAP1546",
+        "origin_country": "Portugal",
+        "longitude": -16.0728,
+        "latitude": 30.0428,
+        "altitude": 11590.02,
+        "velocity": 223.27
+    },
+    {
+        "icao24": "3c6678",
+        "callsign": "DLH78H",
+        "origin_country": "Germany",
+        "longitude": -1.4943,
+        "latitude": 43.7994,
+        "altitude": 10980.42,
+        "velocity": 253.92
+    },
+    {
+        "icao24": "3c65c9",
+        "callsign": "DLH72K",
+        "origin_country": "Germany",
+        "longitude": -8.0185,
+        "latitude": 39.6525,
+        "altitude": 8976.36,
+        "velocity": 265.18
+    },
+    {
+        "icao24": "495301",
+        "callsign": "TAP25YZ",
+        "origin_country": "Portugal",
+        "longitude": -11.0789,
+        "latitude": 39.0338,
+        "altitude": 9037.32,
+        "velocity": 253.14
+    },
+    {
+        "icao24": "4951cc",
+        "callsign": "TAP1937",
+        "origin_country": "Portugal",
+        "longitude": -8.8326,
+        "latitude": 39.9006,
+        "altitude": 5867.4,
+        "velocity": 179.97
+    },
+    {
+        "icao24": "aa44d0",
+        "callsign": "UAL260",
+        "origin_country": "United States",
+        "longitude": -13.8202,
+        "latitude": 41.8735,
+        "altitude": 10668.0,
+        "velocity": 277.86
+    },
+    {
+        "icao24": "39d310",
+        "callsign": "TVF742F",
+        "origin_country": "France",
+        "longitude": -3.5747,
+        "latitude": 40.5124,
+        "altitude": 556.26,
+        "velocity": 83.85
+    },
+    {
+        "icao24": "aa44cf",
+        "callsign": "UAL120",
+        "origin_country": "United States",
+        "longitude": -13.3087,
+        "latitude": 42.5659,
+        "altitude": 10972.8,
+        "velocity": 283.19
+    },
+    {
+        "icao24": "39e4ac",
+        "callsign": "AFR86YY",
+        "origin_country": "France",
+        "longitude": -4.0624,
+        "latitude": 37.5558,
+        "altitude": 6675.12,
+        "velocity": 213.69
+    },
+    {
+        "icao24": "3c7984",
+        "callsign": "CFG1WT",
+        "origin_country": "Germany",
+        "longitude": 3.2533,
+        "latitude": 39.6943,
+        "altitude": 4709.16,
+        "velocity": 164.28
+    },
+    {
+        "icao24": "3c7985",
+        "callsign": "CFG2KP",
+        "origin_country": "Germany",
+        "longitude": 3.47,
+        "latitude": 40.54,
+        "altitude": 9151.62,
+        "velocity": 208.75
+    },
+    {
+        "icao24": "4b1617",
+        "callsign": "SWR3AP",
+        "origin_country": "Switzerland",
+        "longitude": 0.9397,
+        "latitude": 40.512,
+        "altitude": 9311.64,
+        "velocity": 235.26
+    },
+    {
+        "icao24": "4869c4",
+        "callsign": "KLM82Z",
+        "origin_country": "Kingdom of the Netherlands",
+        "longitude": -3.1263,
+        "latitude": 41.7715,
+        "altitude": 8260.08,
+        "velocity": 258.68
+    },
+    {
+        "icao24": "4869c3",
+        "callsign": "KLM44L",
+        "origin_country": "Kingdom of the Netherlands",
+        "longitude": -7.7805,
+        "latitude": 39.8422,
+        "altitude": 9814.56,
+        "velocity": 268.84
+    },
+    {
+        "icao24": "49514c",
+        "callsign": "TAP8RL",
+        "origin_country": "Portugal",
+        "longitude": -1.9245,
+        "latitude": 40.4558,
+        "altitude": 10668.0,
+        "velocity": 213.74
+    },
+    {
+        "icao24": "49514b",
+        "callsign": "TAP1544",
+        "origin_country": "Portugal",
+        "longitude": -12.3134,
+        "latitude": 34.9515,
+        "altitude": 10355.58,
+        "velocity": 252.58
+    },
+    {
+        "icao24": "440c32",
+        "callsign": "EJU8078",
+        "origin_country": "Austria",
+        "longitude": -3.9271,
+        "latitude": 38.1061,
+        "altitude": 10980.42,
+        "velocity": 226.29
+    },
+    {
+        "icao24": "3991e2",
+        "callsign": "AFR39TV",
+        "origin_country": "France",
+        "longitude": -2.8051,
+        "latitude": 41.9346,
+        "altitude": 8869.68,
+        "velocity": 234.0
+    },
+    {
+        "icao24": "440af4",
+        "callsign": "TAY3BC",
+        "origin_country": "Austria",
+        "longitude": 2.2473,
+        "latitude": 41.3801,
+        "altitude": 1173.48,
+        "velocity": 133.22
+    },
+    {
+        "icao24": "e4910e",
+        "callsign": "AZU8750",
+        "origin_country": "Brazil",
+        "longitude": -16.7413,
+        "latitude": 35.4207,
+        "altitude": 12496.8,
+        "velocity": 273.14
+    },
+    {
+        "icao24": "392af0",
+        "callsign": "AFR12HN",
+        "origin_country": "France",
+        "longitude": 1.6186,
+        "latitude": 42.337,
+        "altitude": 8724.9,
+        "velocity": 221.25
+    },
+    {
+        "icao24": "a23fa8",
+        "callsign": "N244JE",
+        "origin_country": "United States",
+        "longitude": -14.9282,
+        "latitude": 30.815,
+        "altitude": 11582.4,
+        "velocity": 253.69
+    },
+    {
+        "icao24": "495299",
+        "callsign": "TAP96AW",
+        "origin_country": "Portugal",
+        "longitude": -10.5305,
+        "latitude": 37.7828,
+        "altitude": 9624.06,
+        "velocity": 257.23
+    },
+    {
+        "icao24": "495245",
+        "callsign": "RZO161",
+        "origin_country": "Portugal",
+        "longitude": -16.7738,
+        "latitude": 32.6342,
+        "altitude": 1790.7,
+        "velocity": 86.21
+    },
+    {
+        "icao24": "4007f7",
+        "callsign": "BAW248",
+        "origin_country": "United Kingdom",
+        "longitude": -12.8003,
+        "latitude": 39.357,
+        "altitude": 11582.4,
+        "velocity": 277.7
+    },
+    {
+        "icao24": "4ca9c3",
+        "callsign": "RYR6TZ",
+        "origin_country": "Ireland",
+        "longitude": 0.1728,
+        "latitude": 39.8276,
+        "altitude": 10972.8,
+        "velocity": 235.74
+    },
+    {
+        "icao24": "440b90",
+        "callsign": "TAY8VC",
+        "origin_country": "Austria",
+        "longitude": -2.7581,
+        "latitude": 42.6485,
+        "altitude": 2186.94,
+        "velocity": 117.89
+    },
+    {
+        "icao24": "4ca850",
+        "callsign": "RYR5987",
+        "origin_country": "Ireland",
+        "longitude": 0.8841,
+        "latitude": 41.8962,
+        "altitude": 11582.4,
+        "velocity": 228.41
+    },
+    {
+        "icao24": "4ca849",
+        "callsign": "RYR119T",
+        "origin_country": "Ireland",
+        "longitude": 4.2407,
+        "latitude": 42.0156,
+        "altitude": 8260.08,
+        "velocity": 212.43
+    },
+    {
+        "icao24": "4ca765",
+        "callsign": "RYR49VU",
+        "origin_country": "Ireland",
+        "longitude": 0.9514,
+        "latitude": 40.397,
+        "altitude": 12496.8,
+        "velocity": 227.46
+    },
+    {
+        "icao24": "4ca764",
+        "callsign": "RYR44MH",
+        "origin_country": "Ireland",
+        "longitude": 0.7838,
+        "latitude": 43.6276,
+        "altitude": 11582.4,
+        "velocity": 231.1
+    },
+    {
+        "icao24": "4ca740",
+        "callsign": "RYR1SR",
+        "origin_country": "Ireland",
+        "longitude": 2.7608,
+        "latitude": 41.0692,
+        "altitude": 5638.8,
+        "velocity": 175.57
+    },
+    {
+        "icao24": "501c1c",
+        "callsign": "TDR289",
+        "origin_country": "Croatia",
+        "longitude": -0.8904,
+        "latitude": 39.3108,
+        "altitude": 11277.6,
+        "velocity": 228.82
+    },
+    {
+        "icao24": "4ca702",
+        "callsign": "RYR8TE",
+        "origin_country": "Ireland",
+        "longitude": 0.129,
+        "latitude": 39.7209,
+        "altitude": 9326.88,
+        "velocity": 240.97
+    },
+    {
+        "icao24": "4ca646",
+        "callsign": "RYR7MD",
+        "origin_country": "Ireland",
+        "longitude": 2.5045,
+        "latitude": 39.9381,
+        "altitude": 5425.44,
+        "velocity": 211.23
+    },
+    {
+        "icao24": "4ca61f",
+        "callsign": "RYR3028",
+        "origin_country": "Ireland",
+        "longitude": 1.7688,
+        "latitude": 39.2697,
+        "altitude": 2636.52,
+        "velocity": 143.23
+    },
+    {
+        "icao24": "4ca61c",
+        "callsign": "RYR7WV",
+        "origin_country": "Ireland",
+        "longitude": -5.7051,
+        "latitude": 37.4186,
+        "altitude": 769.62,
+        "velocity": 102.37
+    },
+    {
+        "icao24": "e4818a",
+        "callsign": "TAM8146",
+        "origin_country": "Brazil",
+        "longitude": -15.3992,
+        "latitude": 31.0784,
+        "altitude": 10972.8,
+        "velocity": 253.49
+    },
+    {
+        "icao24": "39b493",
+        "callsign": "FWI51W",
+        "origin_country": "France",
+        "longitude": -12.2896,
+        "latitude": 39.9776,
+        "altitude": 12496.8,
+        "velocity": 282.62
+    },
+    {
+        "icao24": "346199",
+        "callsign": "SWT180",
+        "origin_country": "Spain",
+        "longitude": -14.4271,
+        "latitude": 30.8529,
+        "altitude": 11277.6,
+        "velocity": 235.73
+    },
+    {
+        "icao24": "5140d2",
+        "callsign": "SZN403",
+        "origin_country": "Georgia",
+        "longitude": -1.6289,
+        "latitude": 43.557,
+        "altitude": 10972.8,
+        "velocity": 248.76
+    },
+    {
+        "icao24": "347459",
+        "callsign": "IBE0266",
+        "origin_country": "Spain",
+        "longitude": -10.1595,
+        "latitude": 39.5314,
+        "altitude": 11887.2,
+        "velocity": 274.46
+    },
+    {
+        "icao24": "34610f",
+        "callsign": "VLG6BH",
+        "origin_country": "Spain",
+        "longitude": -2.7869,
+        "latitude": 37.5036,
+        "altitude": 11277.6,
+        "velocity": 214.88
+    },
+    {
+        "icao24": "3c496d",
+        "callsign": "TUI41W",
+        "origin_country": "Germany",
+        "longitude": -1.6553,
+        "latitude": 42.7994,
+        "altitude": 11277.6,
+        "velocity": 210.8
+    },
+    {
+        "icao24": "39644a",
+        "callsign": "AFR933",
+        "origin_country": "France",
+        "longitude": 1.9065,
+        "latitude": 37.2832,
+        "altitude": 12192.0,
+        "velocity": 219.5
+    },
+    {
+        "icao24": "8966cf",
+        "callsign": "ETD14P",
+        "origin_country": "United Arab Emirates",
+        "longitude": 3.4449,
+        "latitude": 40.7097,
+        "altitude": 11277.6,
+        "velocity": 255.07
+    },
+    {
+        "icao24": "4cafc2",
+        "callsign": "RYR2AA",
+        "origin_country": "Ireland",
+        "longitude": -3.133,
+        "latitude": 41.5056,
+        "altitude": 7879.08,
+        "velocity": 232.76
+    },
+    {
+        "icao24": "34760a",
+        "callsign": "SVA2050",
+        "origin_country": "Spain",
+        "longitude": 1.4748,
+        "latitude": 36.1039,
+        "altitude": 11582.4,
+        "velocity": 242.89
+    },
+    {
+        "icao24": "4d251a",
+        "callsign": "RYR7YT",
+        "origin_country": "Malta",
+        "longitude": 1.3165,
+        "latitude": 42.7035,
+        "altitude": 10972.8,
+        "velocity": 232.14
+    },
+    {
+        "icao24": "aac33e",
+        "callsign": "AVA018",
+        "origin_country": "United States",
+        "longitude": -15.8712,
+        "latitude": 35.2045,
+        "altitude": 12496.8,
+        "velocity": 280.4
+    },
+    {
+        "icao24": "4caf35",
+        "callsign": "RYR9983",
+        "origin_country": "Ireland",
+        "longitude": 3.1597,
+        "latitude": 40.0892,
+        "altitude": 10972.8,
+        "velocity": 226.28
+    },
+    {
+        "icao24": "4d23f9",
+        "callsign": "RYR8989",
+        "origin_country": "Malta",
+        "longitude": 4.1926,
+        "latitude": 41.6987,
+        "altitude": 12192.0,
+        "velocity": 218.31
+    },
+    {
+        "icao24": "34608f",
+        "callsign": "IBE06TG",
+        "origin_country": "Spain",
+        "longitude": -5.1555,
+        "latitude": 38.0719,
+        "altitude": 4792.98,
+        "velocity": 165.56
+    },
+    {
+        "icao24": "4cadc0",
+        "callsign": "RYR5LP",
+        "origin_country": "Ireland",
+        "longitude": 3.4953,
+        "latitude": 40.4032,
+        "altitude": 10972.8,
+        "velocity": 228.91
+    },
+    {
+        "icao24": "346088",
+        "callsign": "VLG4WR",
+        "origin_country": "Spain",
+        "longitude": 3.1241,
+        "latitude": 41.4622,
+        "altitude": 6400.8,
+        "velocity": 210.75
+    },
+    {
+        "icao24": "34738f",
+        "callsign": "CUCO321",
+        "origin_country": "Spain",
+        "longitude": -3.5591,
+        "latitude": 40.4562,
+        "altitude": 723.9,
+        "velocity": 21.34
+    },
+    {
+        "icao24": "4cade4",
+        "callsign": "RYR7LD",
+        "origin_country": "Ireland",
+        "longitude": 0.5895,
+        "latitude": 41.2559,
+        "altitude": 11582.4,
+        "velocity": 233.36
+    },
+    {
+        "icao24": "4cadf8",
+        "callsign": "RYR8EW",
+        "origin_country": "Ireland",
+        "longitude": 0.8092,
+        "latitude": 40.1849,
+        "altitude": 9814.56,
+        "velocity": 241.75
+    },
+    {
+        "icao24": "4cae48",
+        "callsign": "RYR7FJ",
+        "origin_country": "Ireland",
+        "longitude": -3.5663,
+        "latitude": 39.0558,
+        "altitude": 10972.8,
+        "velocity": 235.06
+    },
+    {
+        "icao24": "4cae1e",
+        "callsign": "ITY075",
+        "origin_country": "Ireland",
+        "longitude": 2.4761,
+        "latitude": 41.2581,
+        "altitude": 3246.12,
+        "velocity": 164.13
+    },
+    {
+        "icao24": "4cae5a",
+        "callsign": "RYR1YU",
+        "origin_country": "Ireland",
+        "longitude": 1.2866,
+        "latitude": 39.3854,
+        "altitude": 5966.46,
+        "velocity": 191.56
+    },
+    {
+        "icao24": "4cae67",
+        "callsign": "RYR94EE",
+        "origin_country": "Ireland",
+        "longitude": -0.4902,
+        "latitude": 38.492,
+        "altitude": 3413.76,
+        "velocity": 178.63
+    },
+    {
+        "icao24": "4cae61",
+        "callsign": "RYR3FB",
+        "origin_country": "Ireland",
+        "longitude": 1.2483,
+        "latitude": 38.8212,
+        "altitude": 525.78,
+        "velocity": 86.31
+    },
+    {
+        "icao24": "4cae4c",
+        "callsign": "RYR6178",
+        "origin_country": "Ireland",
+        "longitude": 3.0899,
+        "latitude": 41.8677,
+        "altitude": 11277.6,
+        "velocity": 237.0
+    },
+    {
+        "icao24": "4d22bf",
+        "callsign": "RYR6SF",
+        "origin_country": "Malta",
+        "longitude": 1.336,
+        "latitude": 42.5004,
+        "altitude": 11574.78,
+        "velocity": 221.76
+    },
+    {
+        "icao24": "4d2301",
+        "callsign": "RYR63GU",
+        "origin_country": "Malta",
+        "longitude": -3.6652,
+        "latitude": 39.7995,
+        "altitude": 11582.4,
+        "velocity": 239.02
+    },
+    {
+        "icao24": "4cacdf",
+        "callsign": "RYR87CG",
+        "origin_country": "Ireland",
+        "longitude": -4.5869,
+        "latitude": 40.1436,
+        "altitude": 10972.8,
+        "velocity": 230.86
+    },
+    {
+        "icao24": "348351",
+        "callsign": "IBE03WM",
+        "origin_country": "Spain",
+        "longitude": -10.1963,
+        "latitude": 39.0957,
+        "altitude": 10972.8,
+        "velocity": 265.9
+    },
+    {
+        "icao24": "4d239c",
+        "callsign": "CXI19GZ",
+        "origin_country": "Malta",
+        "longitude": -7.2436,
+        "latitude": 39.1901,
+        "altitude": 11277.6,
+        "velocity": 208.37
+    },
+    {
+        "icao24": "4d2382",
+        "callsign": "RYR62DA",
+        "origin_country": "Malta",
+        "longitude": 4.5062,
+        "latitude": 42.0881,
+        "altitude": 10668.0,
+        "velocity": 243.71
+    },
+    {
+        "icao24": "4cad39",
+        "callsign": "RYR47XV",
+        "origin_country": "Ireland",
+        "longitude": 0.8094,
+        "latitude": 42.0683,
+        "altitude": 11582.4,
+        "velocity": 235.79
+    },
+    {
+        "icao24": "3482d8",
+        "callsign": "VLG1DP",
+        "origin_country": "Spain",
+        "longitude": 2.09,
+        "latitude": 41.4951,
+        "altitude": 5006.34,
+        "velocity": 203.84
+    },
+    {
+        "icao24": "4d21eb",
+        "callsign": "RYR7CY",
+        "origin_country": "Malta",
+        "longitude": 1.3849,
+        "latitude": 40.8148,
+        "altitude": 11277.6,
+        "velocity": 233.79
+    },
+    {
+        "icao24": "4d21e9",
+        "callsign": "RYR3FA",
+        "origin_country": "Malta",
+        "longitude": 3.5453,
+        "latitude": 41.5542,
+        "altitude": 9144.0,
+        "velocity": 222.81
+    },
+    {
+        "icao24": "4d221e",
+        "callsign": "RYR15FK",
+        "origin_country": "Malta",
+        "longitude": 1.3776,
+        "latitude": 40.7182,
+        "altitude": 8549.64,
+        "velocity": 233.11
+    },
+    {
+        "icao24": "4cabc5",
+        "callsign": "ABR7TS",
+        "origin_country": "Ireland",
+        "longitude": 1.2871,
+        "latitude": 43.7005,
+        "altitude": 541.02,
+        "velocity": 58.34
+    },
+    {
+        "icao24": "4d2248",
+        "callsign": "RYR12ZM",
+        "origin_country": "Malta",
+        "longitude": -3.7167,
+        "latitude": 40.6632,
+        "altitude": 10972.8,
+        "velocity": 241.62
+    },
+    {
+        "icao24": "4d2243",
+        "callsign": "RYR1CV",
+        "origin_country": "Malta",
+        "longitude": -1.6401,
+        "latitude": 40.9496,
+        "altitude": 10058.4,
+        "velocity": 218.37
+    },
+    {
+        "icao24": "710010",
+        "callsign": "RXI531",
+        "origin_country": "Saudi Arabia",
+        "longitude": 2.5306,
+        "latitude": 39.7456,
+        "altitude": 11879.58,
+        "velocity": 246.64
+    },
+    {
+        "icao24": "485a33",
+        "callsign": "KLM56W",
+        "origin_country": "Kingdom of the Netherlands",
+        "longitude": -7.9667,
+        "latitude": 42.4211,
+        "altitude": 8930.64,
+        "velocity": 279.8
+    },
+    {
+        "icao24": "4d2226",
+        "callsign": "RYR8AT",
+        "origin_country": "Malta",
+        "longitude": -3.5488,
+        "latitude": 40.6205,
+        "altitude": 1737.36,
+        "velocity": 116.34
+    },
+    {
+        "icao24": "4d2229",
+        "callsign": "RYR5NY",
+        "origin_country": "Malta",
+        "longitude": -1.3416,
+        "latitude": 41.2143,
+        "altitude": 10530.84,
+        "velocity": 249.68
+    },
+    {
+        "icao24": "4d2289",
+        "callsign": "RYR28BZ",
+        "origin_country": "Malta",
+        "longitude": -0.9719,
+        "latitude": 41.2803,
+        "altitude": 11590.02,
+        "velocity": 243.46
+    },
+    {
+        "icao24": "4d227f",
+        "callsign": "RYR13MF",
+        "origin_country": "Malta",
+        "longitude": 0.6594,
+        "latitude": 40.2296,
+        "altitude": 11277.6,
+        "velocity": 227.37
+    },
+    {
+        "icao24": "4d2255",
+        "callsign": "RYR29UF",
+        "origin_country": "Malta",
+        "longitude": 2.3521,
+        "latitude": 41.5265,
+        "altitude": 10668.0,
+        "velocity": 234.95
+    },
+    {
+        "icao24": "4d224c",
+        "callsign": "RYR3909",
+        "origin_country": "Malta",
+        "longitude": -6.1327,
+        "latitude": 34.7529,
+        "altitude": 11887.2,
+        "velocity": 226.95
+    },
+    {
+        "icao24": "4d2250",
+        "callsign": "RYR4QE",
+        "origin_country": "Malta",
+        "longitude": -4.1679,
+        "latitude": 37.3504,
+        "altitude": 6332.22,
+        "velocity": 213.95
+    },
+    {
+        "icao24": "4d2186",
+        "callsign": "WMT2HX",
+        "origin_country": "Malta",
+        "longitude": -0.6336,
+        "latitude": 39.4373,
+        "altitude": 10668.0,
+        "velocity": 223.88
+    },
+    {
+        "icao24": "4cac23",
+        "callsign": "RYR37ZX",
+        "origin_country": "Ireland",
+        "longitude": 1.856,
+        "latitude": 41.2637,
+        "altitude": 11582.4,
+        "velocity": 240.7
+    },
+    {
+        "icao24": "4cac7f",
+        "callsign": "RYR52WA",
+        "origin_country": "Ireland",
+        "longitude": 0.2818,
+        "latitude": 38.5205,
+        "altitude": 10972.8,
+        "velocity": 236.25
+    },
+    {
+        "icao24": "4d2124",
+        "callsign": "HAT523P",
+        "origin_country": "Malta",
+        "longitude": -8.6599,
+        "latitude": 41.1465,
+        "altitude": 1524.0,
+        "velocity": 117.7
+    },
+    {
+        "icao24": "71011e",
+        "callsign": "SVA062",
+        "origin_country": "Saudi Arabia",
+        "longitude": -13.3945,
+        "latitude": 42.3717,
+        "altitude": 10363.2,
+        "velocity": 288.67
+    },
+    {
+        "icao24": "39d2ad",
+        "callsign": "AFR579",
+        "origin_country": "France",
+        "longitude": -4.5606,
+        "latitude": 43.4739,
+        "altitude": 12192.0,
+        "velocity": 276.12
+    },
+    {
+        "icao24": "451dbd",
+        "callsign": "BCS236P",
+        "origin_country": "Bulgaria",
+        "longitude": 4.5757,
+        "latitude": 41.7205,
+        "altitude": 10363.2,
+        "velocity": 222.88
+    }
+]
